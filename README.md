@@ -5,3 +5,7 @@ Roadmap to becoming a backend developer in 2018
 
 ## Good Resources
 * [.NET Microservices. Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/)
+
+## Credits
+* [Roadmap to becoming a React developer in 2018](https://github.com/adam-golab/react-developer-roadmap)
+* [draw.io](https://www.draw.io/)
