@@ -4,8 +4,14 @@ Roadmap to becoming a backend developer in 2018
 [Work In Progress...]
 
 ## [Message Queue ](https://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html)
-- Amazon SQS
-- RabbitMQ
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [Amazon SQS](https://aws.amazon.com/sqs/)
+- [Kafka](https://kafka.apache.org/)
+- [RocketMQ](https://rocketmq.incubator.apache.org/)
+- [Qpid](https://qpid.apache.org/)
+- [Artemis](https://activemq.apache.org/artemis/)
+- [NSQ](http://nsq.io/)
+- [ZeroMQ](http://zeromq.org/)
 
 ## Good Resources
 * [.NET Microservices. Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/)
