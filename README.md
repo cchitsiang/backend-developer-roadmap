@@ -1,5 +1,5 @@
-# Backend Developer Roadmap - 2018
-Roadmap to becoming a backend developer in 2018
+# Backend Developer Roadmap
+Roadmap to becoming a backend developer
 
 [Work In Progress...]
 
